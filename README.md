@@ -26,6 +26,22 @@ The disadvantage of this backtracking strategy is that it may take longer to sol
 - 
 
 ## :electric_plug: What to Expect
-- 
 
-<h3 align="center"> This code was built with :heart: and 2 cups of Coffee:coffee:</h3>
+---
+## :v: Contributing
+
+You wanna contribute? Wow amazing. Thats great to hear.
+
+After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
+
+### Pushing the changes
+
+```bash
+git add .
+git commit -m "feat: added new stuff"
+git push YOUR_REPO_URL BRANCH_NAME
+```
+
+---
+
+<h3 align="center"> This code was built with :heart: and alot of cups of Coffee:coffee:</h3>
