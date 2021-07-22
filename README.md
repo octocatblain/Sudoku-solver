@@ -20,17 +20,14 @@ The disadvantage of this backtracking strategy is that it may take longer to sol
 
 ## :hammer_and_wrench: Tools & Languages Used
 - Anaconda Version 4.10.1
-- Python Version 3.8.8
-
-
-- 
+- Python Version 3.8.8 
 
 ## :electric_plug: What to Expect
 
 ---
 ## :v: Contributing
 
-You wanna contribute? Wow amazing. Thats great to hear.
+You wanna contribute? Wow amazing. That's great to hear.
 
 After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
 
