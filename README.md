@@ -1,4 +1,4 @@
-<h1 align="center">:game_die: Sudoku Solver :jigsaw:</h1>
+<h1 align="center">:game_die: Sudoku with Solver :jigsaw:</h1>
 
 This python-based Sudoku solver employs backtracking, which is essentially retreating back to the previous step or solution when we discover that our current solution cannot be completed. To implement the algorithm, I employed this backtracking principle.
 
@@ -6,6 +6,11 @@ This python-based Sudoku solver employs backtracking, which is essentially retre
 - Sudoku GUI 
 
 ![Sudoku GUI](https://user-images.githubusercontent.com/62080362/126641053-6fd911b2-7502-4096-b0f2-3917bfecaacf.png)
+
+- Sudoku Solver in Terminal
+
+![Solver In Terminal](https://user-images.githubusercontent.com/62080362/126643964-13489a46-75dd-4c95-a5d5-91c88e95cc77.png)
+
 
 ## :abacus: Backtracking Logic Used
 <p>Backtracking is a <em>depth-first search</em> (as opposed to a <em>breadth-first search</em>) in that it will fully explore one branch to a possible answer before going on to the next. Despite the fact that there are approximately 5.96 × 11<sup>26</sup> final grids, a brute force technique can be a useful method for solving Sudoku problems.</p>
